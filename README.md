@@ -42,11 +42,14 @@ A robust and secure Node.js/Express-based REST API for managing digital wallets,
    - Configure the following variables:
      ```
      PORT=3000
-     MONGODB_URI=mongodb://localhost:27017/walletcore
-     JWT_SECRET=your_jwt_secret_key
-     JWT_EXPIRY=7d
-     NODEMAILER_EMAIL=your_email@gmail.com
-     NODEMAILER_PASSWORD=your_app_password
+      MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/<database>
+
+      JWT_SECRET=your_jwt_secret_here
+
+      CLIENT_ID=your_google_client_id
+      CLIENT_SECRET=your_google_client_secret
+      REFRESH_TOKEN=your_google_refresh_token
+      EMAIL_USER=your_email@example.com
      ```
 
 4. **Start the server**
