@@ -1,6 +1,6 @@
 # WalletCore API
 
-A robust and secure Node.js/Express-based REST API for managing digital wallets, accounts, and transactions. Built with MongoDB for persistent data storage and JWT authentication for secure access.
+A secure and scalable REST API built with Node.js and Express to manage digital wallets, user accounts, and transactions. It uses MongoDB for reliable data storage and JWT-based authentication to ensure safe and controlled access.
 
 ## Features
 
