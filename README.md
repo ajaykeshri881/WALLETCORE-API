@@ -283,7 +283,7 @@ ISC
 
 ## Support
 
-For issues or questions, please create an issue in the repository.
+For issues or questions, please create an issue in this repository.
 
 ---
 
